@@ -1,4 +1,4 @@
-# BeyondChats – Full Stack Web Developer Intern Assignment
+# BeyondChats 
 
 ## 📌 Project Overview
 
@@ -271,4 +271,5 @@ http://localhost:5173
 **Shrutika Deshmukh**
 
 ---
+
 
